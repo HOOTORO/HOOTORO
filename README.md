@@ -1,5 +1,7 @@
-### Hi there 👋
+> "A journey of a thousand miles begins with a single step" :copyright: <kbd>F11</kbd>
+---
 
+### so just 🫀 keep walking.
 <!--
 **HOOTORO/HOOTORO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
