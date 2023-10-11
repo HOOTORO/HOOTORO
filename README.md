@@ -8,11 +8,10 @@
 
 ### So just 🫀 keep walking
 
-- ⚡ Fun fact: ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+- ⚡ Fun fact: appears Here
+- 🌱 I’m currently learning How to
+- 😄 Pronouns: **HOOTORO/HOOTORO** is a ✨ _special_ ✨
   
-**HOOTORO/HOOTORO** is a ✨ _special_ ✨  
   because its GitHub  
 
 [1]: https://github.com/HOOTORO/HOOTORO/assets/28406079/05c01bc0-cbbd-4c8e-90f0-af272fee7955
@@ -30,15 +29,15 @@
 [13]: https://github.com/HOOTORO/HOOTORO/assets/28406079/ca47184f-20a1-49fe-9de9-4e82bc5623ed
 
 <!--
-repository  `README.md` (this file) appears on your  profile.
+repository  `README.md` (this file)  on your  profile.
 
-Here are some ideas to get you started:
+ are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 reach me: ...
 ## Tasklist
 
 * [ ] to do
